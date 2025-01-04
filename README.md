@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Merhaba, Ben [Muhammed]! 🌟</h1>
+<h1 align="center">🌟 Hello, I'm Muhammed! 🌟</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-.Net%20Developer-purple?style=for-the-badge" />
@@ -7,25 +7,21 @@
 </p>
 
 <p align="center">
-  💻 .Net Developer Olma Yolunda İlerliyorum
+  💻 On my way to becoming a .Net Developer.
 </p>
 
 ---
 
-## 🌟 **Hakkımda**
+## 🌟 **About Me**
 
-- 🛠️ Deneyimlerim: **C#, ASP.NET, Entity Framework, JavaScript, jQuery, SQL, Bootstrap**
-- 🌱 Şu anda **.NET Core öğreniyorum.
-- 🎯 Hedefim: .Net Core alanında uzmanlaşmak ve ileri seviye projeler geliştirmek.
-- 📫 Bana ulaşın: **[muhammed.ustafbm@gmail.com]**
-
----
-
-
+- 🛠️ **Experience:** **C#, ASP.NET, Entity Framework, JavaScript, jQuery, SQL, Bootstrap**
+- 🌱 Currently learning **.NET Core**.
+- 🎯 **Goal:** To specialize in .NET Core and develop advanced projects.
+- 📫 Reach me at: **[muhammed.ustafbm@gmail.com](mailto:muhammed.ustafbm@gmail.com)**
 
 ---
 
-## 🌟 **Becerilerim**
+## 🌟 **Skills**
 
 ### Backend
 - **C#**
@@ -37,13 +33,13 @@
 - **HTML5, CSS3, Bootstrap**
 - **JavaScript, jQuery**
 
-### Veritabanı
+### Database
 - **SQL Server**
 - **MySQL**
 
 ---
 
-## 📊 **GitHub İstatistiklerim**
+## 📊 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammed-usta&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -54,6 +50,4 @@
 
 ---
 
-
-
-<h3 align="center">⭐️ Beni takip etmeyi ve projelerimi incelemeyi unutmayın! ⭐️</h3>
+<h3 align="center">⭐️ Don't forget to follow me and check out my projects! ⭐️</h3>
