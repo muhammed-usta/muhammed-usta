@@ -17,7 +17,7 @@
 - 
 - 🛠️ Deneyimlerim: **C#, ASP.NET, Entity Framework, JavaScript, jQuery, SQL, Bootstrap**
 - 🌱 Şu anda **.NET Core öğreniyorum.
-- 🎯 Hedefim: Modern web uygulamaları ve API geliştirmede uzmanlaşmak.
+- 🎯 Hedefim: .Net Core alanında uzmanlaşmak ve ileri seviye projeler geliştirmek.
 - 📫 Bana ulaşın: **[muhammed.ustafbm@gmail.com]**
 
 ---
