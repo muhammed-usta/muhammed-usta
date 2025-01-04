@@ -14,7 +14,6 @@
 
 ## 🌟 **Hakkımda**
 
-- 
 - 🛠️ Deneyimlerim: **C#, ASP.NET, Entity Framework, JavaScript, jQuery, SQL, Bootstrap**
 - 🌱 Şu anda **.NET Core öğreniyorum.
 - 🎯 Hedefim: .Net Core alanında uzmanlaşmak ve ileri seviye projeler geliştirmek.
