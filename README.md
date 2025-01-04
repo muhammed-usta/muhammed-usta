@@ -46,7 +46,7 @@
 ## 📊 **GitHub İstatistiklerim**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammed-ustai&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammed-usta&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammed-usta&theme=tokyonight" alt="GitHub Streak" />
