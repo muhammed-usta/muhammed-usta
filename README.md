@@ -50,19 +50,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-usta&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
----
-
-## 📌 **Pinned Repositories**
-<p align="center">
-  <a href="https://github.com/muhammed-usta/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-usta&repo=project1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/muhammed-usta/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammed-usta&repo=project2&theme=tokyonight" />
-  </a>
-</p>
 
 ---
+
 
 ## 🌟 **Let's Connect!**
 <p align="center">
