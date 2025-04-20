@@ -15,7 +15,7 @@
 - 🛠️ **Tech Stack:** **C#, ASP.NET, .NET Core, Entity Framework, JavaScript, jQuery, SQL, Bootstrap**
 - 📚 Currently improving my skills in **.NET Core** and **modern web development**.
 - 🎯 **Goal:** Master .NET Core and build high-performance applications.
-- 📫 How to reach me: **[📧 Email](mailto:muhammed.ustafbm@gmail.com)**
+- 📫 How to reach me: **[📧 Email](mailto:muhammedustadev@gmail.com)**
 
 ---
 
